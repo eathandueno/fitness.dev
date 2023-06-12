@@ -1,0 +1,10 @@
+.navbar{
+    border-bottom: 1px solid white;
+    background: linear-gradient(to bottom right, #59C3C3, #6d60cf);
+}
+.navbar-brand{
+    margin-left: 30px;
+}
+.links{
+    margin-left: 30%;
+}
