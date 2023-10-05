@@ -16,6 +16,7 @@ const BmrCalculator = () => {
   return (
     <div className="container-bmr">
       <h2>BMR Calculator</h2>
+      <p>Find your daily needs for calories</p>
       <form onSubmit={handleFormSubmit}>
         <div className="form-group">
           <label htmlFor="age">Age:</label>
